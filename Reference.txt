@@ -1,0 +1,10 @@
+BREAKLINE: <br>
+
+BOLD: <strong></strong>
+ITALIC: <em></em> (emphasis)
+
+<ol> :1. ; 2. ; 3.
+<ul> :Bullets
+
+<li>: List Items
+
