@@ -8,3 +8,5 @@ ITALIC: <em></em> (emphasis)
 
 <li>: List Items
 
+https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes
+
