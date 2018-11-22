@@ -1,5 +1,9 @@
+/*@font-face {
+    font-family: "dinfont";
+    src: url(fonts/FF-DIN-Pro-Regular.ttf) format("truetype");
+}*/
 body{
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'dinfont', 'Source Sans Pro', sans-serif;
     border: 2em #bdc7cf solid;
     padding: 2%;
 }
