@@ -3,22 +3,29 @@
     src: url(fonts/FF-DIN-Pro-Regular.ttf) format("truetype");
 }*/
 body{
+    margin: auto;
     font-family: 'dinfont', 'Source Sans Pro', sans-serif;
-    border: 2em #bdc7cf solid;
+    border: 2rem #bdc7cf solid;
+    font-size: 16px;
     padding: 2%;
+    max-width: 700px;
+    width: 75%;
 }
 h2{
     text-transform: uppercase;
     letter-spacing: 0.3em;
     color: #3098dd;
 }
+hr{
+    margin-top: 2%;
+}
 h1{
     color: #354b63;
-    font-size: 2.5em;
+    font-size: 2.5rem;
 }
 
 div div p:nth-of-type(1){
-    border-left: 0.5em #bdc7cf solid;
-    padding: 0.8em;
+    border-left: 0.5rem #bdc7cf solid;
+    padding: 0.8rem;
 
 }
