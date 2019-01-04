@@ -1,7 +1,7 @@
-/*@font-face {
+@font-face {
     font-family: "dinfont";
     src: url(fonts/FF-DIN-Pro-Regular.ttf) format("truetype");
-}*/
+}
 body{
     margin: auto;
     font-family: 'dinfont', 'Source Sans Pro', sans-serif;
